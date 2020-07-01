@@ -1,6 +1,6 @@
 {
   "name": "Enso",
-  "image": "docker.pkg.github.com/lolczak/enso/enso:0.1.0-snapshot",
+  "image": "lolczak/enso:0.1.0-SNAPSHOT",
 
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash"
