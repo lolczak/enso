@@ -1,0 +1,13 @@
+{
+  "name": "Enso",
+  "image": "docker.pkg.github.com/lolczak/enso/enso:0.1.0-snapshot",
+
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+
+
+  "forwardPorts": [30001, 30002],
+
+  "remoteUser": "enso"
+}
