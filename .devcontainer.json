@@ -9,5 +9,5 @@
 
   "forwardPorts": [30001, 30002],
 
-  "remoteUser": "enso"
+  "remoteUser": "root"
 }
