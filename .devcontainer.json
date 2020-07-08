@@ -9,5 +9,6 @@
 
   "forwardPorts": [30001, 30002],
   "overrideCommand": false,
-  "remoteUser": "root"
+  "containerUser": "enso",
+  "remoteUser": "enso"
 }
