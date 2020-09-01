@@ -6,6 +6,7 @@
     "terminal.integrated.shell.linux": "/bin/bash"
   },
   "forwardPorts": [30001],
-  "overrideCommand": false
-
+  "overrideCommand": false,
+  "containerUser": "root",
+  "remoteUser": "root"
 }
