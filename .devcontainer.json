@@ -1,7 +1,9 @@
 {
   "name": "Enso",
   "image": "lolczak/echo-server:0.1.0",
-
+  "containerEnv": {
+    "JAVA_OPTS": "-Xms6g"
+  },
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash"
   },
